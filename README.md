@@ -121,15 +121,3 @@
 
     - Lidar and Radar: Data processing and object detection.
     - Sensor Fusion: Combining data from multiple sensors.
-
-## 8. Keeping Up-to-Date
-
-    - Research Papers: Regularly read papers from CVPR, ICCV, ECCV, NeurIPS, etc.
-    - Workshops and Conferences: Attend CV conferences, workshops, webinars.
-    - Online Communities: Engage with communities on GitHub, Stack Overflow, Reddit (e.g., r/computervision).
-
-## 9. Soft Skills and Networking
-
-    - Communication: Writing papers, presenting findings.
-    - Collaboration: Working in teams, open-source community engagement.
-    - Career Development: Building a portfolio, CV, LinkedIn presence, and preparing for interviews.
